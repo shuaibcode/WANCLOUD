@@ -1,0 +1,10 @@
+
+<html>
+   <body>
+      <from> action = "http://127.0.0.1:5000/result" method = "POST">
+          <p>Name >input type = "text name = "name " /><p>
+          <p>CAR >input type = "text name = "geep " /><p>
+          <p>input type = "submit = "value = "submit" /><p>
+      </from>
+    </body>
+</html>
